@@ -10,6 +10,6 @@ function object(){
 
 
     }
-    console.log("my name is "+obj.firstName+" "+obj.lastName+"i am"+obj.year+" "+ "years old")
+    console.log("my name is "+obj.firstName+" "+obj.lastName+"i am"+" "+obj.year+" "+ "years old")
 }
 object()
