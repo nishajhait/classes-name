@@ -8,4 +8,4 @@ function votingAge(age){
         console.log("no result")
     }
 }
-votingAge(18)
+votingAge(5)
